@@ -18,6 +18,16 @@
   <a href="mailto:natalya.s.belova@gmail.com"><img width="37px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
 </p>
 
+<!--Education-->
+## 🎓 Education
+<table width="100%" border='0'>
+   <tr> 
+    <td width="15%" valign="bottom"><img src="images/university.png"></td><td valign="middle">Omsk State Transport University. Automation, Telemechanics, and Communications on Railway transport.</td></tr>
+  </table>
+  </br>
+
+<!--Projects-->
+
 
 <!--
 **natalia-s-belova/natalia-s-belova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
