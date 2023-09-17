@@ -9,14 +9,10 @@
 - Software Test Engineer with 7+ years of experience
 - Currently learning autotests creation in Python
 
-<p>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/natalya_s_belova" target="blank"><img width="32px" alt="Telegram" title="Telegram" src="images/tg.png"/></a>
-  &#8287;
-   <a href="https://www.linkedin.com/in/nsbelova/" target="blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src=images/linkedin.png/></a>
-  &#8287;
-  <a href="mailto:natalya.s.belova@gmail.com" target="blank"><img width="37px" alt="Write me Email" title="Gmail" src="images/gmail.png"/></a>
-</p>
+## 🧭 Contacts
+[<img src='images/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nsbelova/)
+[<img src='images/tg.png' alt='telegram' height='30'>](https://t.me/natalya_s_belova)
+[<img src='images/gmail.png' alt='gmail' height='30'>](mailto:natalya.s.belova@gmail.com) 
 
 
 
