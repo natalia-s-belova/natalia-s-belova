@@ -20,7 +20,7 @@
 - [Android app tests](https://github.com/natalia-s-belova/wikipedia_android_app_tests)
 
 ## 🛠️ Stack and tools
-<div>
+<div align="center">
 <img src="images/technologies/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="images/technologies/pytest.png" title="PyTest" alt="Pytest" width="40" height="40"/>&nbsp;
 <img src="images/technologies/pycharm.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
