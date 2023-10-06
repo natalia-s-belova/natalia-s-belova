@@ -1,8 +1,4 @@
-<div align="left">
-   <h1>
-      Hello there! 👋
-   </h1>
-</div>
+# Hello there! 👋
 
 
 ## 👩🏻‍💻 About me
@@ -20,22 +16,22 @@
 - [Android app tests](https://github.com/natalia-s-belova/wikipedia_android_app_tests)
 
 ## 🛠️ Stack and tools
-<div align="center">
-<img src="images/technologies/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="images/technologies/pytest.png" title="PyTest" alt="Pytest" width="40" height="40"/>&nbsp;
-<img src="images/technologies/pycharm.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-<img src="images/technologies/selene.png" title="Selene" alt="Selene" width="40" height="40"/>&nbsp;
-<img src="images/technologies/selenium.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="images/technologies/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-<img src="images/technologies/allure_report.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
-<img src="images/technologies/allure_testops.png" title="AllureTestOps" alt="AllureTestOps" width="40" height="40"/>&nbsp;
-<img src="images/technologies/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="images/technologies/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
-<img src="images/technologies/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="images/technologies/requests.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp;
-<img src="images/technologies/appium.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
-<img src="images/technologies/browserstack.png" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
-<img src="images/technologies/android_studio.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="images/technologies/jira.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="images/technologies/confluence.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<div>
+<a href="https://www.python.org/"><img src="images/technologies/python.png" alt="Python" width="40" height="40"/></a>
+<a href="https://docs.pytest.org/en/"><img src="images/technologies/pytest.png" alt="Pytest" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="images/technologies/pycharm.png" alt="PyCharm" width="40" height="40"/></a>
+<a href="https://github.com/yashaka/selene/"><img src="images/technologies/selene.png" alt="Selene" width="40" height="40"/></a>
+<a href="https://www.selenium.dev/"><img src="images/technologies/selenium.png" alt="Selenium" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/"><img src="images/technologies/jenkins.png" alt="Jenkins" width="40" height="40"/></a>
+<a href="https://allurereport.org/"><img src="images/technologies/allure_report.png" alt="Allure" width="40" height="40"/></a>
+<a href="https://qameta.io/"><img src="images/technologies/allure_testops.png" alt="AllureTestOps" width="40" height="40"/></a>
+<a href="https://www.docker.com/"><img src="images/technologies/docker.png" alt="Docker" width="40" height="40"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="images/technologies/selenoid.png" alt="Selenoid" width="40" height="40"/></a>
+<a href="https://www.postman.com/"><img src="images/technologies/postman.png" alt="Postman" width="40" height="40"/></a>
+<a href="https://pypi.org/project/requests/"><img src="images/technologies/requests.png" alt="Requests" width="40" height="40"/></a>
+<a href="https://appium.io/"><img src="images/technologies/appium.png" alt="Appium" width="40" height="40"/></a>
+<a href="https://www.browserstack.com/"><img src="images/technologies/browserstack.png" alt="Browserstack" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio"><img src="images/technologies/android_studio.png" alt="AndroidStudio" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira"><a href="https://www.atlassian.com/software/jira"><img src="images/technologies/jira.png" alt="Jira" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/confluence"><img src="images/technologies/confluence.png" alt="Confluence" width="40" height="40"/></a>
 </div>
