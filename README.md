@@ -10,7 +10,7 @@
 [<img src='images/other/tg.png' alt='telegram' height='30'>](https://t.me/natalya_s_belova)
 [<img src='images/other/gmail.png' alt='gmail' height='30'>](mailto:natalya.s.belova@gmail.com) 
 
-## 🐊 Pet projects
+## 🐊 Training projects
 - [Web+API tests](https://github.com/natalia-s-belova/book_store_demoqa_web_api_tests)
 - [API tests](https://github.com/natalia-s-belova/reqres_api_tests)
 - [Android app tests](https://github.com/natalia-s-belova/wikipedia_android_app_tests)
