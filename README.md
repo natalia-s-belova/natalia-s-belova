@@ -4,6 +4,7 @@
 ## 👩🏻‍💻 About me
 - Software Test Engineer with 7+ years of experience
 - Currently learning autotests creation in Python
+- In addition: [resume](https://github.com/natalia-s-belova/natalia-s-belova/blob/main/resume/AQA_Natalia_Belova.pdf), [certificates](https://github.com/natalia-s-belova/natalia-s-belova/tree/main/certificates)
 
 ## 🧭 Contacts
 [<img src='images/other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nsbelova/)
